@@ -236,7 +236,7 @@ select * from summaas;
 -- maksimum ve minumum maaşini listeleyen bir Sorgu yaziniz.
 
 select marka_isim,calisan_sayisi,
-(select max(maas) from calisanlar2 where isyeri=marka_isim) as enyıksekmaas,
+(select max(maas) from calisanlar2 where isyeri=marka_isim) as enyuksekmaas,
 (select min(maas) from calisanlar2 where isyeri=marka_isim) as endusukmaas
 from markalar
 
