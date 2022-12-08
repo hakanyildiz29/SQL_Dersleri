@@ -1,0 +1,13 @@
+DATA QUERY LANGUAGE - DQL
+SELECT : veri almak için kullanılır
+DATA MANIPULATION LANGUAGE - DML (Tablonun icerigi)
+INSERT : bir tabloya yeni kayıt eklemek için kullanılır.
+UPDATE : içindeki verileri değiştirmek için kullanılır
+DELETE : veri silmek için kullanilir.
+DATA DEFINITION LANGUAGE -  DDL (Tablo olusturma (bas kisimlari))
+CREATE : Bir veritabani veya veritabani icinde tablo olusturur.
+ALTER  : Bir veritabani veya veritabani icindeki tabloyu gunceller.
+DROP : Bir veritabani veya veritabani icindeki tabloyu siler.
+DATA CONTROL LANGUAGE - DCL (Kullanicilara veritabani ve tablolar icin yetki verilmesi veya geri alinmasi)
+GRANT : Bir kullaniciya yetki vermek icin kullanilir.
+ REVOKE : Bir kullaniciya verilen yetkiyi geri almak icin kullanilir.
